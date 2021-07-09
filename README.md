@@ -1,4 +1,5 @@
 # Lowescraft
+![example workflow](https://github.com/slurmking/lowescraft/actions/workflows/build.yml/badge.svg)
 
 ## License
 

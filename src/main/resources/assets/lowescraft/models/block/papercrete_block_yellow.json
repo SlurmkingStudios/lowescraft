@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "lowescraft:blocks/papercrete_block_yellow"
+  }
+}

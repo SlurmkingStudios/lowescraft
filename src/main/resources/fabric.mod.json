@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "lowescraft",
+  "version": "${version}",
+
+  "name": "Lowes Craft",
+  "description": "Baby's first mod!",
+  "authors": [
+    "Axoladdy",
+    "Slurmking"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/lowes/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.slurmking.lowes.lowescraft"
+    ]
+  },
+  "mixins": [
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.17.x",
+    "java": ">=16"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
